@@ -3,5 +3,5 @@ resource "time_sleep" "wait" {
 }
 
 resource "time_sleep" "wait2" {
-    create_duration = var.time
+    create_duration = time_sleep.wait.create_duration
 }
