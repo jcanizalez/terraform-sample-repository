@@ -1,7 +1,7 @@
 variable "time" {
   description = "Time"
   type        = string
-  default     = "30s"
+  default     = "40s"
 }
 
 variable "name" {
