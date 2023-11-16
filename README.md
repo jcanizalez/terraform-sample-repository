@@ -1,1 +1,1 @@
-# terraform-sample-repository-
+# terraform-sample-repository
